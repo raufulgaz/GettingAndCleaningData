@@ -9,10 +9,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Contents of this repository:
 
-1.  run_analysis.R			R script
-2.  "UCI-HAR tidydata.csv"	output file in csv format
-3.  "CODEBOOK.md" 			content of output dataset
-4.  "README.md" 			this file 
+1.  run_analysis.R: 			R script
+2.  "UCI-HAR tidydata.csv": 	output file in csv format
+3.  "CODEBOOK.md":  			content of output dataset
+4.  "README.md":     			this file 
 
 Procedure:
 
