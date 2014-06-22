@@ -105,5 +105,5 @@ tidynames <- gsub(".","",tidynames,fixed=TRUE)
 names(tidydata) <- tidynames
 
 # write output
-write.csv(tidydata, "UCI-HAR-tidydata.csv", row.names=FALSE)
+write.csv(tidydata, "UCI-HAR-tidydata.txt", row.names=FALSE)
 

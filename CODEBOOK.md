@@ -3,7 +3,7 @@ Coursera Corse Project Assignment
 
 Getting and Cleaning Data - Course Project
 
-Codebook for dataset "UCI-HAR-tidydata.csv"
+Codebook for dataset "UCI-HAR-tidydata.txt"
 
 All data was obtained from this study:
 
