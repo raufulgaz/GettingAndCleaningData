@@ -19,8 +19,10 @@ Procedure:
 1. Set working directory in R
 2. Install library (plyr)
 3. Execute run_analysis.R
+
 Input:
 - if not exist the script download input data file "UCI HAR Dataset.zip"
 - the script unzip file in the folder "UCI HAR Dataset"
+
 Output:   
 - the script will generate the output data set file "UCI-HAR-tidydata.txt"
